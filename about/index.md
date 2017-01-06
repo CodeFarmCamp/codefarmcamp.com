@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Code Farm Camp
+title: What is it?
 excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
 ---

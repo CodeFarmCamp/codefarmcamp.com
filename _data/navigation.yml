@@ -3,14 +3,14 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
-
 - title: Blog
   url: /blog/
 
 - title: Courses
   url: /courses/
+
+- title: Registration
+  url: /registration/
 
 - title: Search
   url: /search/

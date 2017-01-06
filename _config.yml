@@ -3,11 +3,11 @@
 title: Code Farm Camp
 locale: en_US
 description: Coding, Farming, Camping for super awesome people. Coming to a farm near you.
-logo: site-logo.png
+logo: bridge-small.jpg
 search: true
 url: http://codefarmcamp.com
 
-# Jekyll configuration
+# Jekyll confhhiguration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
