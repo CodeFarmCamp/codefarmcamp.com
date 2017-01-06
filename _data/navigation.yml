@@ -1,16 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
-- title: Blog
-  url: /blog/
+- title: Home
+  url: /
 
 - title: Courses
   url: /courses/
 
 - title: Registration
   url: /registration/
+
+- title: Blog
+  url: /blog/
+
+- title: About
+  url: /about/
 
 - title: Search
   url: /search/
